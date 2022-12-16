@@ -73,3 +73,40 @@ img {
     margin-top: 0px;
     
 }
+
+.container{
+    text-align: center;
+    
+}
+
+.info-container{
+    display: flex;
+    justify-content: center;
+    gap:25px;
+    margin-bottom: 72px;
+}
+
+.photo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    border-radius: 10px;
+}
+
+.text{
+    max-width: 100px;
+    font-size: 15px;
+    color: #1F2937;
+}
+
+.information{
+    margin-top: 36px;
+    margin-bottom: 36px;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+
+}
+
+
+
