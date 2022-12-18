@@ -105,8 +105,42 @@ img {
     font-size: 36px;
     font-weight: 900;
     color: #1F2937;
-
 }
 
+.quote-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+}
 
+.quote-speaker{
+    width: 500px;
+    margin-top: 88px;
+    margin-bottom: 88px;
+    display: flex;
+    flex-direction: column;
+}
 
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: lighter;
+}
+
+.speaker{
+    margin-left: auto;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.signup{
+    padding-left: 24px;
+    padding-right: 24px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #3882F6;
+    color: white;
+    border: 0;
+    border-radius: 8px;
+}
