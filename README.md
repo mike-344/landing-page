@@ -1,3 +1,5 @@
 # landing-page
 
-Simple landing page to practice basic html and css.
+A landing page using flexbox for the layout.
+
+Live: https://mike-344.github.io/landing-page/
